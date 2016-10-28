@@ -9,8 +9,8 @@
 #include "gcamera.h"
 
 // System
-#include <gl.h>
-#include <glu.h>
+#include <OpenGL/gl.h>
+#include <OpenGL/glu.h>
 #include <iostream>
 #include <stdlib.h>
 

@@ -10,7 +10,7 @@
 
 #include <iostream>
 
-#include <gl.h>
+#include <OpenGL/gl.h>
 
 #include "proplib/proplib.h"
 

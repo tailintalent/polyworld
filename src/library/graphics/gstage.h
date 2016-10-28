@@ -9,7 +9,7 @@
 #ifndef GSTAGE_H
 #define GSTAGE_H
 
-#include <gl.h>
+#include <OpenGL/gl.h>
 
 // Local
 #include "gmisc.h"

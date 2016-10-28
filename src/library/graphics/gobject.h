@@ -22,7 +22,7 @@
 						  "unknown" )
 
 // System
-#include <gl.h>
+#include <OpenGL/gl.h>
 #include <iostream>
 #include <math.h>
 #include <list>

@@ -2,7 +2,7 @@
 #define GPOLYGON_H
 
 // System
-#include <gl.h>
+#include <OpenGL/gl.h>
 #include <istream>
 
 // Local

@@ -10,7 +10,7 @@
 #define GLIGHT_H
 
 // Sytem
-#include <gl.h>
+#include <OpenGL/gl.h>
 
 class indexlist;
 class gobject;

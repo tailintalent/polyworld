@@ -7,7 +7,7 @@
 #include "agent.h"
 
 // System
-#include <gl.h>
+#include <OpenGL/gl.h>
 #include <string.h>
 
 // Local

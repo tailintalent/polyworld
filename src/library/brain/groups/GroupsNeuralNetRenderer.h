@@ -1,6 +1,6 @@
 #pragma once
 
-#include <gl.h>
+#include <OpenGL/gl.h>
 
 #include "brain/Nerve.h"
 #include "brain/NeuralNetRenderer.h"
